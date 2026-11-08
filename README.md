@@ -4,8 +4,8 @@ A patch and updated launch script for Eyewitness Dinosaur Hunter that works on w
 Fixes that make **Eyewitness Virtual Reality: Dinosaur Hunter 2.0**, the 2000 DK Multimedia CD-ROM re-release, run again on **Windows 10/11** and on
 **Android handhelds through Winlator**. (Tested with Snapdragon Gen 2 and Adreno GPU but will likely work on anything running android.)
 
-The game itself is unchanged. These fixes replace the parts of 1990s Windows that modern
-systems no longer have, and they add a few quality of life features.
+These fixes replace the parts of 1990s Windows that modern
+systems no longer have, Recompile the video assets to a supported format, and add a few quality of life features.
 
 > [!IMPORTANT]
 > **You must supply your own game ISO.** For copyright reasons, this release contains only the fixes:
